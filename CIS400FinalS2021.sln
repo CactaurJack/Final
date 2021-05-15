@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{8CD15706-216E-4FA8-812C-E193352CE846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTests", "DataTests\DataTests.csproj", "{8F1AE803-5108-4C12-919A-8B20AA2AF549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CD15706-216E-4FA8-812C-E193352CE846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD15706-216E-4FA8-812C-E193352CE846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD15706-216E-4FA8-812C-E193352CE846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD15706-216E-4FA8-812C-E193352CE846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F1AE803-5108-4C12-919A-8B20AA2AF549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1AE803-5108-4C12-919A-8B20AA2AF549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1AE803-5108-4C12-919A-8B20AA2AF549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1AE803-5108-4C12-919A-8B20AA2AF549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D406F41-03D9-421C-9160-D261A4BC37BA}
+	EndGlobalSection
+EndGlobal
